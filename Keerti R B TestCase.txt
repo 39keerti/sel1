@@ -1,0 +1,56 @@
+1. Open a Website:
+Navigate to "https://www.example.com"
+Verify that the page title is "Example Domain"
+
+2.Login Test:
+Navigate to "https://www.example.com/login"
+Enter valid username and password
+Verify successful login or appropriate error message
+
+3.Search Test:
+Navigate to "https://www.example.com"
+Enter "selenium" in the search bar
+Submit the search
+Verify that relevant search results are displayed
+
+4.Add to Cart:
+Navigate to "https://www.examplestore.com/product/123"
+Click "Add to Cart" button
+Verify that the cart displays the added item with the correct details
+
+5.Checkout Process:
+Navigate to "https://www.examplestore.com/cart"
+Click "Proceed to Checkout"
+Fill in shipping information
+Verify the order summary details before confirming
+
+6.Dropdown Selection:
+Navigate to "https://www.example.com/dropdown"
+Select "Option 2" from the dropdown menu
+Verify that "Option 2" is displayed on the page
+
+7.Form Submission:
+Navigate to "https://www.example.com/registration"
+Fill out the registration form
+Submit the form
+Verify the success message on the next page
+
+8.Navigation Test:
+Navigate to "https://www.example.com"
+Click "About Us" link in the navigation menu
+Verify that the page displays information about the company
+
+9.Dynamic Content:
+Navigate to "https://www.example.com/news"
+Verify that the page loads dynamic news articles
+
+10.Logout Test:
+Navigate to "https://www.exampleapp.com"
+Log in with valid credentials
+Perform some actions
+Log out
+Verify redirection to the login page
+
+
+
+
