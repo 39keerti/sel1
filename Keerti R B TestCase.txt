@@ -3,53 +3,77 @@ Navigate to "https://www.example.com"
 Verify that the page title is "Example Domain"
 
 2.Login Test:
-Navigate to "https://www.example.com/login"
-Enter valid username and password
+Navigate to "https://www.flipcart.com/login"
+Enter valid username
 Verify successful login or appropriate error message
 
 3.Search Test:
-Navigate to "https://www.example.com"
+Navigate to "https://www.w3school.com"
 Enter "selenium" in the search bar
 Submit the search
 Verify that relevant search results are displayed
 
 4.Add to Cart:
-Navigate to "https://www.examplestore.com/product/123"
-Click "Add to Cart" button
+Navigate to https://www.jotform.com/form-templates/hospital-admission-form
+Click "Add Doctors Name 
+       First name,last name.date of birth.
+Click" Add Patient name"
+       First name,last name.date of birth.
+Click" Add Gardien Name"
+       First name,last name.date of birth.
+Submit the form
 Verify that the cart displays the added item with the correct details
 
 5.Checkout Process:
-Navigate to "https://www.examplestore.com/cart"
-Click "Proceed to Checkout"
-Fill in shipping information
-Verify the order summary details before confirming
+Navigate to https://phptravels.net/
+Click " to add sorce and destination of flight
+add a location and date time of flight
+click to search of flight
+book a flight 
+addd name and adress phone number 
+conform the book
+close the browser
 
-6.Dropdown Selection:
-Navigate to "https://www.example.com/dropdown"
-Select "Option 2" from the dropdown menu
-Verify that "Option 2" is displayed on the page
+6.
+Navigate to https://www.toolsqa.com/selenium-training?q=headers#enroll-form
+Select Fill the Form for selenium traning
+select the first na,e and last name
+subit the applaction for the seleneium traning
+Verify that subbmisson text in console
+
 
 7.Form Submission:
-Navigate to "https://www.example.com/registration"
+Navigate to https://www.saucedemo.com/inventory.html
 Fill out the registration form
 Submit the form
 Verify the success message on the next page
 
-8.Navigation Test:
-Navigate to "https://www.example.com"
-Click "About Us" link in the navigation menu
-Verify that the page displays information about the company
 
-9.Dynamic Content:
-Navigate to "https://www.example.com/news"
-Verify that the page loads dynamic news articles
+8.Test:
+Navigate to https://swaglabs.in/
+click to add the product in the cart
+add two products in the cart
+add users details 
+submit enquary
+verify the the displayed messgae in the console
 
-10.Logout Test:
-Navigate to "https://www.exampleapp.com"
-Log in with valid credentials
-Perform some actions
-Log out
-Verify redirection to the login page
+
+9.testcase
+Navigate to https://the-internet.herokuapp.com/
+click the lanaguage should be selected 
+select the java language 
+serach for java
+fill the details for the users
+sign in process
+submit the process
+
+
+10.Test:
+Navigate to https://the-internet.herokuapp.com/
+add the elements 
+add the three elements
+delete the elements 
+close the browsers
 
 
 
